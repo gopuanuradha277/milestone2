@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-image:url('https://www.ehacking.net/wp-content/uploads/2020/11/ethical-hacking.jpg;');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+*{
+color:white;
+}
+</style>
+</head>
+<body>
+<h1 style="text-align:center;"><b>ABOUT HACKERS</b></h1>
+<p><b><u>DEFINATION:</u></b>A <b>hacker</b> is a person skilled in information technology  who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means.<br>There are different types of Hackers:</br></p>
+<ol>
+<li>White hat hacker</li>
+<li>Black hat hacker</li>
+<li>Grey hat hacker</li>
+</ol>
+<p>Brief description about types of Hackers:</p>
+<ul>
+<li><p><b><u>White hat hacker:</u></b>White hats are hackers who work to keep data safe from other hackers by finding system <b>vulnerabilities</b> that can be mitigated.White hats are usually employed by the target system's owner and are typically paid(sometimes quite well) for their work.Their work is not illegal because it is done with the system owner's consent.</li>
+<li><p><b><u>Black hat hacker:</u></b>Black hats or crackers are hackers with malicious intentions.They often steal,exploit,and sell data,and are usually motivated by personal gain.Their work is usually illegal.A cracker is like a black hat hacker,but is specifically someone who is very skilled and tries via hacking to male profits or to benifit,not just to vandalize.</p></li>
+<li><p><b><u>Grey hat hacker:</u></b>A grey hat hacker is a computer hacker or computer security expert who may sometimes violate security laws or typical or <b>ethical standards</b>, but does not have the malicious intent typical of a black hat hacker.</li>
+</ul>
+</body>
+</html>
